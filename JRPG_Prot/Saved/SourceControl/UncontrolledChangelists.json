@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/BP_Enemy.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/6U/C8W46UCHPKBV6NC9N1DV42.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/0W/QJ9AD98FCEYUA2E6QNN388.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/UZ/PMXYDVW23Y08PHC7F7YIEP.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/NF/GE865TT24902WZ3OW5UBYL.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/8Q/OKUV0E241XXWHM2J1OAGAC.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/NJ/S7HFNBIBBAW5M06CCBUM6J.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/3P/RBK8G6YSM65AK3HS1ZDZBV.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/Q3/EOEOKQM27B7GWARSD5PJQ1.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/BR/4J97QGUJ1XWMB51QAN3UD5.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/VU/193O9TR87RET5FZ9OLLLE7.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/BB_Enemy.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/BT_EnemyPatrol.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/BTTask_FindPatrolPoint.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/BP_EnemyController.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/YD/NR1VQF6KDU15BCK2IZP7BN.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/48/DZEIO189TW2WYCNUW8IL1J.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/24/5YRAAXNCGQ1U240NIUXQ0K.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/NX/57GTHBL4CRLG7AYBPX7MG3.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/L0/WJYZ2ZU1MRZ6IZYWLRXQHG.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/VJ/MZ6SAHP5FUZHBPMFXL1KAK.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/7I/T26427LAEF7X3OYMRA5VAS.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/8B/M0MSSXS3OS4953ZCS5JBEO.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/DE/33FPHSRPV17R1BAVOWKZ1Z.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/2L/69A5OS4C1CPA8JQ44PR3AU.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/4X/X6R02FE71IO3OGKC5GZ3RY.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/OH/UNS9NCWL3BGIB1IR5TXL6I.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/BP_BattleManager.uasset",
+				"C:/Users/PC/Desktop/JRPG_Prot/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/46/VKKI6J8KLIZ5RV3E87JNXE.uasset"
+			]
+		}
+	]
+}
